@@ -69,3 +69,244 @@
     text-align: center;
     color: #ea8004;
 }
+
+.meaning-sukoon-container {
+    width: auto;
+    height: 455px;
+    display: flex;
+}
+
+.first-pic {
+    width: 452px;
+    height: 455px;
+    background-color: #ffffff;
+}
+
+.meaning-sukoon-text-container {
+    width: 454px;
+    height: 455px;
+    background-color: #eb8927;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.meaning-sukoon-title {
+    font-size: 30px;
+    height: 40px;
+    font-family: MONOSPACE;
+    text-align: center;
+    color: #ffffff;
+}
+
+.meaning-sukoon-subtitle {
+    width: 338px;
+    height: 220px;
+    font-family: MONOSPACE;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.second-pic {
+    width: 452px;
+    height: 455px;
+    background-color: #ffffff;
+}
+
+.sukoon-flow-container {
+    width: auto;
+    height: 405px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sukoon-flow-title {
+    width: 354px;
+    height: 57px;
+    font-family: MONOSPACE;
+    font-size: 50px;
+    text-align: center;
+    color: #c23916;
+    padding-top: 30px;
+}
+
+.sukoon-flow-pic {
+    width: 1111px;
+    height: 167px;
+}
+
+.sukoon-vision-flow-container {
+    width: auto;
+    height: 455px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sukoon-vision-container {
+    width: 682px;
+    height: 455px;
+    background-color: #aca99f;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.our-vision-title {
+    width: 250px;
+    height: 52px;
+    font-family: MONOSPACE;
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.our-vision-subtitle {
+    width: 558px;
+    height: 152px;
+    font-family: MONOSPACE;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.our-vision-logo {
+    width: 136px;
+    height: 23px;
+}
+
+.sukoon-vision-pic {
+    width: 680px;
+    height: 455px;
+    background-color: #ffffff;
+}
+
+.taste-guarantee-commitment-container {
+    width: auto;
+    height: 225px;
+    background-color: #c23916;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.taste-guarantee-first-pic {
+    width: 163px;
+    height: 115px;
+}
+
+.taste-guarantee-text-container {
+    width: 784px;
+    height: 79px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.percent-guarantee-title {
+    width: 684px;
+    height: 79px;
+    font-family: MONOSPACE;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.percent-guarantee-subtitle {
+    width: 784px;
+    height: 79px;
+    font-family: MONOSPACE;
+    font-size: 23px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.taste-guarantee-second-pic {
+    width: 163px;
+    height: 115px;
+}
+
+.sukoon-actual-food-container {
+    width: auto;
+    height: 455px;
+    background-repeat: repeat;
+}
+
+.explore-indian-cuisine-container {
+    height: 225px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.explore-indian-text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.explore-indian-cuisine-title {
+    width: 888px;
+    height: 39px;
+    font-family: MONOSPACE;
+    font-size: 40px;
+    text-align: center;
+    color: #c23916;
+}
+
+.explore-indian-cuisine-subtitle {
+    width: 888px;
+    height: 79px;
+    font-family: MONOSPACE;
+    font-size: 30px;
+    text-align: center;
+    color: #c23916;
+}
+
+.explore-first-pic {
+    width: 121px;
+    height: 110px;
+}
+
+.explore-second-pic {
+    width: 121px;
+    height: 110px;
+}
+
+.indian-food-photos-container {
+    display: flex;
+}
+
+.indian-food-pic-first {
+    width: 683px;
+    height: 455px;
+}
+
+.indian-food-pic-second {
+    width: 683px;
+    height: 455px;
+    background-color: #ffffff;
+}
+
+.sukoon-footer-container {
+    width: auto;
+    height: 165px;
+    background-color: #eb8927;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sukoon-footer-pic {
+    width: 136px;
+    height: 23px;
+}
