@@ -254,9 +254,17 @@
 }
 
 .sukoon-actual-food-container {
-    width: auto;
+    width: 1362px;
     height: 455px;
     background-repeat: repeat;
+}
+
+.sukoon-actual-top-food-container {
+    width: auto;
+    height: 455px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .explore-indian-cuisine-container {
