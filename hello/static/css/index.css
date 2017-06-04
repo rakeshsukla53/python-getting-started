@@ -127,10 +127,10 @@
 
 .sukoon-flow-container {
     width: auto;
-    height: 405px;
+    height: 370px;
     background-color: #ffffff;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
 }
@@ -143,6 +143,7 @@
     text-align: center;
     color: #c23916;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .sukoon-flow-pic {
