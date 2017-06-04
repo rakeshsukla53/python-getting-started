@@ -74,6 +74,8 @@
     width: auto;
     height: 455px;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .first-pic {
@@ -284,6 +286,8 @@
 
 .indian-food-photos-container {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .indian-food-pic-first {
