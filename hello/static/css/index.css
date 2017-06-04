@@ -271,7 +271,7 @@
     height: 225px;
     background-color: #ffffff;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 
@@ -303,11 +303,13 @@
 .explore-first-pic {
     width: 121px;
     height: 110px;
+    padding-right: 55px;
 }
 
 .explore-second-pic {
     width: 121px;
     height: 110px;
+    padding-left: 55px;
 }
 
 .indian-food-photos-container {
