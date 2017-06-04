@@ -199,17 +199,25 @@
 }
 
 .taste-guarantee-commitment-container {
-    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.taste-guarantee-fixed-container {
+    width: 1362px;
     height: 225px;
     background-color: #c23916;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 
 .taste-guarantee-first-pic {
     width: 163px;
     height: 115px;
+    padding-right: 40px;
 }
 
 .taste-guarantee-text-container {
@@ -242,6 +250,7 @@
 .taste-guarantee-second-pic {
     width: 163px;
     height: 115px;
+    padding-left: 40px;
 }
 
 .sukoon-actual-food-container {
