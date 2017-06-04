@@ -3,7 +3,7 @@
     height: 225px;
     background-color: #ffffff;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 
@@ -20,6 +20,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.contact-box-top-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 150px;
 }
 
 .contact-box-button {
@@ -39,6 +46,7 @@
     justify-content: center;
     align-content: center;
     padding-top: 20px;
+    padding-right: 150px;
 }
 
 .register-box {
