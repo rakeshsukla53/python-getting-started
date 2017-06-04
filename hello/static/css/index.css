@@ -330,7 +330,7 @@
 }
 
 .sukoon-footer-container {
-    width: auto;
+    width: 1362px;
     height: 165px;
     background-color: #eb8927;
     display: flex;
@@ -341,4 +341,13 @@
 .sukoon-footer-pic {
     width: 136px;
     height: 23px;
+}
+
+.sukoon-footer-top-container {
+    width: auto;
+    height: 165px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
