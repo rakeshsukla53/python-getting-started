@@ -30,12 +30,17 @@
 }
 
 .contact-box-button {
-    width: 193px;
-    height: 31px;
+    width: 196px;
+    height: 39px;
     font-family: MONOSPACE;
     font-size: 30px;
     text-align: center;
     color: #ea8004;
+}
+
+.contact-box-button:hover {
+    background-color: lightgreen;
+    color: white;
 }
 
 .register-container {
@@ -60,12 +65,25 @@
 }
 
 .register-text {
-    width: 147px;
-    height: 32px;
+    width: 157px;
+    height: 40px;
     font-family: MONOSPACE;
     font-size: 30px;
     text-align: center;
     color: #ea8004;
+}
+
+.register-text:hover {
+    background-color: lightgreen;
+    color: white;
+}
+
+.form-register-text {
+    margin-bottom: 0;
+}
+
+.form-contact-us {
+    margin-bottom: 0;
 }
 
 .free-food-sample {
@@ -76,6 +94,7 @@
     font-weight: 300;
     text-align: center;
     color: #ea8004;
+    padding-top: 5px;
 }
 
 .meaning-sukoon-container {
