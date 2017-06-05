@@ -36,10 +36,14 @@
     font-size: 30px;
     text-align: center;
     color: #ea8004;
+    background-color: white;
+    border-color: white;
+    box-sizing: inherit;
+    border-width: 0;
 }
 
 .contact-box-button:hover {
-    background-color: lightgreen;
+    background-color: #ea8004;
     color: white;
 }
 
@@ -50,7 +54,7 @@
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    padding-top: 20px;
+    padding-top: 30px;
     padding-right: 150px;
 }
 
@@ -71,10 +75,14 @@
     font-size: 30px;
     text-align: center;
     color: #ea8004;
+    background-color: white;
+    border-color: white;
+    box-sizing: inherit;
+    border-width: 0;
 }
 
 .register-text:hover {
-    background-color: lightgreen;
+    background-color: #ea8004;
     color: white;
 }
 
