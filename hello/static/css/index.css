@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 .junoon-header-container {
     width: auto;
     height: 225px;
@@ -32,7 +35,7 @@
 .contact-box-button {
     width: 196px;
     height: 39px;
-    font-family: MONOSPACE;
+    font-family: 'Montserrat', sans-serif;
     font-size: 30px;
     text-align: center;
     color: #ea8004;
@@ -97,8 +100,8 @@
 .free-food-sample {
     width: 280px;
     height: 27px;
-    font-family: MONOSPACE;
-    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 27px;
     font-weight: 300;
     text-align: center;
     color: #ea8004;
