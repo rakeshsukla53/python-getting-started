@@ -1,6 +1,7 @@
 {% load staticfiles %}
 
 <link rel="stylesheet" href="{% static 'css/index.css' %}">
+
 <div class="junoon-header-container">
     <div class="register-container">
         <div class="register-box">
@@ -34,9 +35,9 @@
             <img src="{% static 'images/item_1.png' %}">
         </div>
         <div class="read-our-story-container">
-            <div class="read-our-story-text">
+            <button id="storyButton" class="read-our-story-text">
                 READ OUR STORY
-            </div>
+            </button>
         </div>
     </div>
     <div class="white-line">
@@ -44,6 +45,18 @@
     <div class="second-pic">
         <img class="second-pic" src="{% static 'images/02.png' %}">
     </div>
+</div>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p class="our-story-text">Food should be inspiring to the soul. Healthy, balanced, nutritious, delicious food nourishes not only the body, but also the soul. So you should not have to compromise on any aspect of the food - be it taste, quality or nourishment. Basically, you should not be forced to make choices to have a good, fulfilling meal. The initiative and the name itself has been inspired from my own personal experiences as I struggled to find good food after a rather tiresome day in New York.Food in New York never gave me the sense of satisfaction of having a good meal. I was missing the taste, flavor and aroma of the food from my place - New Delhi. The food in New York never appealed to my taste buds. I always felt like something was missing in my food. I felt like the love and care I experienced while eating the delicious food prepared by my mother and served hot is missing here. That is when I resolved that I’ll do everything I can to get good homemade food for myself and help as many people as I can get the same so that they don’t have to go through such difficulties. That has become my motto - to enrich the culinary experiences of my customers with the most delicious authentic Indian cuisine one might ever taste.</p>
+    <div class="our-vision-logo">
+        <img src="{% static 'images/item_1.png' %}">
+    </div>
+  </div>
 </div>
 
 <div class="sukoon-flow-container">
@@ -127,3 +140,5 @@
         <img class="sukoon-footer-pic" src="{% static 'images/item_4.png' %}">
     </div>
 </div>
+
+<script type="text/javascript" src="{% static 'javascript/sukoon.js' %}"></script>
